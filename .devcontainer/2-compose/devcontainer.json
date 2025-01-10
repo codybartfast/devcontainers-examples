@@ -1,6 +1,0 @@
-{
-  "name": "minimal_web",
-  "forwardPorts": ["80"],
-  "dockerComposeFile": "../../demoApps/static/docker-compose.yml",
-  "service": "web"
-}
